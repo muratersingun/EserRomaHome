@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EserRomaHome", "EserRomaHome\EserRomaHome.csproj", "{4995C971-82F5-430F-9E82-7602F6798A37}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EserRomeHomeBussines", "EserRomeHomeBussines\EserRomeHomeBussines.csproj", "{365BE99C-4F9D-4A76-81A1-1F773194609E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EserRomeHomeUI", "EserRomeHomeUI\EserRomeHomeUI.csproj", "{277DCBDA-5B72-4E89-B83E-1472653CB6EF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4995C971-82F5-430F-9E82-7602F6798A37}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4995C971-82F5-430F-9E82-7602F6798A37}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4995C971-82F5-430F-9E82-7602F6798A37}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4995C971-82F5-430F-9E82-7602F6798A37}.Release|Any CPU.Build.0 = Release|Any CPU
+		{365BE99C-4F9D-4A76-81A1-1F773194609E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{365BE99C-4F9D-4A76-81A1-1F773194609E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{365BE99C-4F9D-4A76-81A1-1F773194609E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{365BE99C-4F9D-4A76-81A1-1F773194609E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{277DCBDA-5B72-4E89-B83E-1472653CB6EF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{277DCBDA-5B72-4E89-B83E-1472653CB6EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{277DCBDA-5B72-4E89-B83E-1472653CB6EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{277DCBDA-5B72-4E89-B83E-1472653CB6EF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
