@@ -358,10 +358,6 @@ namespace EserRomeHomeUI
             MessageBox.Show("Kayıt tamamlandı");
         }
 
-        private void buttonEdit1_EditValueChanged(object sender, EventArgs e)
-        {
-
-        }
 
         private void btnFirma_Click(object sender, EventArgs e)
         {
