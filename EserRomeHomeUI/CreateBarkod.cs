@@ -355,7 +355,7 @@ namespace EserRomeHomeUI
             cmd.Parameters.AddWithValue("@RenkAdi", txtRenk.Text);
             cmd.ExecuteNonQuery();
             baglanti.Close();
-            MessageBox.Show("katıt tamam");
+            MessageBox.Show("Kayıt tamamlandı");
         }
 
         private void buttonEdit1_EditValueChanged(object sender, EventArgs e)
