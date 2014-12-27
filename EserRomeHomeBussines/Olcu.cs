@@ -133,6 +133,5 @@ namespace EserRomeHomeBussines
 
             return (TmpFrimaCode[TmpFrimaCode.Count - 1] + 1).ToString().PadLeft(2, '0');
         }
-
     }
 }
