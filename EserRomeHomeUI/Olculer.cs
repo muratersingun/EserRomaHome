@@ -146,9 +146,6 @@ namespace EserRomeHomeUI
             txtTurKodu.Text = SelectedOlcu.TurKodu.ToString();
             txtOlcuKodu.Text = SelectedOlcu.OlcuKodu.ToString();
             txtOlcuAdi.Text = SelectedOlcu.OlcuAdi.ToString();
-
-
-
         }
     }
 }
