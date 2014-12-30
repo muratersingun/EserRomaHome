@@ -133,7 +133,6 @@ namespace EserRomeHomeUI
                 }
             }
         }
-
         private void dataGridView1_CellDoubleClick(object sender, DataGridViewCellEventArgs e)
         {
             String SecilenTurKodu = dataGridView1.CurrentRow.Cells["TurKodu"].Value.ToString();
