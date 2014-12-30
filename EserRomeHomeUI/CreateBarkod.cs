@@ -326,14 +326,6 @@ namespace EserRomeHomeUI
             e.Handled = Char.IsLetter(e.KeyChar);
         }
 
-
-
-        private void btnEdtModel_TextChanged(object sender, EventArgs e)
-        {
-            txtAltYazi.Text = txtUrun.Text;
-            lblAlt.Text = txtUrun.Text;
-        }
-
         private void button5_Click(object sender, EventArgs e)
         {
             if (String.IsNullOrEmpty(txtFirma.Text) || String.IsNullOrEmpty(txtUrun.Text) || String.IsNullOrEmpty(txtTuru.Text) || String.IsNullOrEmpty(txtOlcu.Text) | String.IsNullOrEmpty(txtRenk.Text))
@@ -341,18 +333,19 @@ namespace EserRomeHomeUI
                 MessageBox.Show("Firma\nModel\nTuru\nÖlçü\nRenk\nAlanlarını Doldurun");
                 return;
             }
-            SqlConnection baglanti = new SqlConnection("Data Source=.; Initial Catalog=OZDILEKMNGSISTEM; Integrated Security=true");
+            SqlConnection baglanti = new SqlConnection("Data Source = 192.168.2.254,1433\\server\\SERVER\\SQLEXPRESS;Initial Catalog = OZDILEKMNGSISTEM;User ID =ahmet;Password =123456;");
 
             SqlCommand cmd = new SqlCommand();
             baglanti.Open();
             cmd.Connection = baglanti;
-            cmd.CommandText = "INSERT INTO BarkodKaydi(Barkod,FirmaAdi,UrunAdi,TuruAdi,OlcuAdi,RenkAdi)VALUES(@Barkod,@FirmaAdi,@UrunAdi,@TuruAdi,@OlcuAdi,@RenkAdi)";
+            cmd.CommandText = "INSERT INTO BarkodKaydi(Barkod,FirmaAdi,UrunAdi,TuruAdi,OlcuAdi,RenkAdi,Fiyat)VALUES(@Barkod,@FirmaAdi,@UrunAdi,@TuruAdi,@OlcuAdi,@RenkAdi,@Fiyat)";
             cmd.Parameters.AddWithValue("@Barkod", txtBarkod.Text);
             cmd.Parameters.AddWithValue("@FirmaAdi", txtFirma.Text);
             cmd.Parameters.AddWithValue("@UrunAdi", txtUrun.Text);
             cmd.Parameters.AddWithValue("@TuruAdi", txtTuru.Text);
             cmd.Parameters.AddWithValue("@OlcuAdi", txtOlcu.Text);
             cmd.Parameters.AddWithValue("@RenkAdi", txtRenk.Text);
+            cmd.Parameters.AddWithValue("@Fiyat", txtFiyat.Text);
             cmd.ExecuteNonQuery();
             baglanti.Close();
             MessageBox.Show("Kayıt tamamlandı");
@@ -505,10 +498,13 @@ namespace EserRomeHomeUI
                 grup4.Visible = true;
                 grup5.Visible = true;
             }
-           
+            //txtAltYazi.Text = txtUrun.Text;
+            //lblAlt.Text = txtUrun.Text;
         }
 
-       
-
+        private void txtAltYazi_TextChanged(object sender, EventArgs e)
+        {
+           lblAlt.Text = txtAltYazi.Text;
+        }
     }
 }
