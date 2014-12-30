@@ -16,13 +16,11 @@ namespace EserRomeHomeUI
         {
             InitializeComponent();
         }
-
         String gTurKodu = String.Empty;
         Olcu SelectedOlcu;
         private void Olculer_Load(object sender, EventArgs e)
         {
             List<Control> controllst = (List<Control>)this.Tag;
-
             foreach (Control item in controllst)
             {
                 if (item.Name == "txtTuruKodu")
