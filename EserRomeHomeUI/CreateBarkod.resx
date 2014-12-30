@@ -147,7 +147,7 @@
     <value>$this</value>
   </data>
   <data name="&gt;&gt;txtRenkKodu.ZOrder" xml:space="preserve">
-    <value>25</value>
+    <value>27</value>
   </data>
   <data name="txtOlcuKodu.Enabled" type="System.Boolean, mscorlib">
     <value>False</value>
@@ -177,7 +177,7 @@
     <value>$this</value>
   </data>
   <data name="&gt;&gt;txtOlcuKodu.ZOrder" xml:space="preserve">
-    <value>27</value>
+    <value>29</value>
   </data>
   <data name="txtModelKodu.Enabled" type="System.Boolean, mscorlib">
     <value>False</value>
@@ -207,7 +207,7 @@
     <value>$this</value>
   </data>
   <data name="&gt;&gt;txtModelKodu.ZOrder" xml:space="preserve">
-    <value>28</value>
+    <value>30</value>
   </data>
   <data name="txtTuruKodu.Enabled" type="System.Boolean, mscorlib">
     <value>False</value>
@@ -237,7 +237,7 @@
     <value>$this</value>
   </data>
   <data name="&gt;&gt;txtTuruKodu.ZOrder" xml:space="preserve">
-    <value>30</value>
+    <value>32</value>
   </data>
   <data name="txtFirmaKodu.Enabled" type="System.Boolean, mscorlib">
     <value>False</value>
@@ -267,7 +267,7 @@
     <value>$this</value>
   </data>
   <data name="&gt;&gt;txtFirmaKodu.ZOrder" xml:space="preserve">
-    <value>32</value>
+    <value>34</value>
   </data>
   <data name="&gt;&gt;lblAlt.Name" xml:space="preserve">
     <value>lblAlt</value>
@@ -370,7 +370,7 @@
     <value>$this</value>
   </data>
   <data name="&gt;&gt;groupBox3.ZOrder" xml:space="preserve">
-    <value>36</value>
+    <value>38</value>
   </data>
   <data name="lblAlt.AutoSize" type="System.Boolean, mscorlib">
     <value>True</value>
@@ -592,7 +592,7 @@
     <value>4</value>
   </data>
   <data name="groupBox4.Location" type="System.Drawing.Point, System.Drawing">
-    <value>11, 510</value>
+    <value>11, 531</value>
   </data>
   <data name="groupBox4.Size" type="System.Drawing.Size, System.Drawing">
     <value>446, 58</value>
@@ -613,7 +613,7 @@
     <value>$this</value>
   </data>
   <data name="&gt;&gt;groupBox4.ZOrder" xml:space="preserve">
-    <value>35</value>
+    <value>37</value>
   </data>
   <data name="txtBarkodSayisi.Location" type="System.Drawing.Point, System.Drawing">
     <value>269, 26</value>
@@ -778,7 +778,7 @@
     <value>$this</value>
   </data>
   <data name="&gt;&gt;label9.ZOrder" xml:space="preserve">
-    <value>20</value>
+    <value>22</value>
   </data>
   <data name="label10.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
     <value>NoControl</value>
@@ -808,13 +808,13 @@
     <value>$this</value>
   </data>
   <data name="&gt;&gt;label10.ZOrder" xml:space="preserve">
-    <value>21</value>
+    <value>23</value>
   </data>
   <data name="txtAltYazi.Location" type="System.Drawing.Point, System.Drawing">
     <value>89, 302</value>
   </data>
   <data name="txtAltYazi.MaxLength" type="System.Int32, mscorlib">
-    <value>32</value>
+    <value>19</value>
   </data>
   <data name="txtAltYazi.Size" type="System.Drawing.Size, System.Drawing">
     <value>176, 20</value>
@@ -832,13 +832,13 @@
     <value>$this</value>
   </data>
   <data name="&gt;&gt;txtAltYazi.ZOrder" xml:space="preserve">
-    <value>22</value>
+    <value>24</value>
   </data>
   <data name="txtUstYazi.Location" type="System.Drawing.Point, System.Drawing">
     <value>89, 271</value>
   </data>
   <data name="txtUstYazi.MaxLength" type="System.Int32, mscorlib">
-    <value>32</value>
+    <value>19</value>
   </data>
   <data name="txtUstYazi.Size" type="System.Drawing.Size, System.Drawing">
     <value>176, 20</value>
@@ -856,7 +856,7 @@
     <value>$this</value>
   </data>
   <data name="&gt;&gt;txtUstYazi.ZOrder" xml:space="preserve">
-    <value>24</value>
+    <value>26</value>
   </data>
   <data name="label11.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
     <value>NoControl</value>
@@ -1048,7 +1048,7 @@
     <value>$this</value>
   </data>
   <data name="&gt;&gt;label12.ZOrder" xml:space="preserve">
-    <value>26</value>
+    <value>28</value>
   </data>
   <data name="label13.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
     <value>NoControl</value>
@@ -1078,7 +1078,7 @@
     <value>$this</value>
   </data>
   <data name="&gt;&gt;label13.ZOrder" xml:space="preserve">
-    <value>29</value>
+    <value>31</value>
   </data>
   <data name="label14.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
     <value>NoControl</value>
@@ -1108,7 +1108,7 @@
     <value>$this</value>
   </data>
   <data name="&gt;&gt;label14.ZOrder" xml:space="preserve">
-    <value>31</value>
+    <value>33</value>
   </data>
   <data name="label15.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
     <value>NoControl</value>
@@ -1138,7 +1138,7 @@
     <value>$this</value>
   </data>
   <data name="&gt;&gt;label15.ZOrder" xml:space="preserve">
-    <value>33</value>
+    <value>35</value>
   </data>
   <data name="label16.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
     <value>NoControl</value>
@@ -1168,7 +1168,7 @@
     <value>$this</value>
   </data>
   <data name="&gt;&gt;label16.ZOrder" xml:space="preserve">
-    <value>34</value>
+    <value>36</value>
   </data>
   <data name="pictureBox1.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
     <value>NoControl</value>
@@ -1195,7 +1195,7 @@
     <value>$this</value>
   </data>
   <data name="&gt;&gt;pictureBox1.ZOrder" xml:space="preserve">
-    <value>23</value>
+    <value>25</value>
   </data>
   <data name="&gt;&gt;label1.Name" xml:space="preserve">
     <value>label1</value>
@@ -1231,7 +1231,7 @@
     <value>$this</value>
   </data>
   <data name="&gt;&gt;panel1.ZOrder" xml:space="preserve">
-    <value>19</value>
+    <value>21</value>
   </data>
   <data name="label1.AutoSize" type="System.Boolean, mscorlib">
     <value>True</value>
@@ -1485,7 +1485,10 @@
     <value>$this</value>
   </data>
   <data name="&gt;&gt;btnFirma.ZOrder" xml:space="preserve">
-    <value>18</value>
+    <value>20</value>
+  </data>
+  <data name="txtFirma.Enabled" type="System.Boolean, mscorlib">
+    <value>False</value>
   </data>
   <data name="txtFirma.Location" type="System.Drawing.Point, System.Drawing">
     <value>87, 336</value>
@@ -1509,7 +1512,7 @@
     <value>$this</value>
   </data>
   <data name="&gt;&gt;txtFirma.ZOrder" xml:space="preserve">
-    <value>17</value>
+    <value>19</value>
   </data>
   <data name="btnUrun.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
     <value>NoControl</value>
@@ -1536,7 +1539,10 @@
     <value>$this</value>
   </data>
   <data name="&gt;&gt;btnUrun.ZOrder" xml:space="preserve">
-    <value>16</value>
+    <value>18</value>
+  </data>
+  <data name="txtUrun.Enabled" type="System.Boolean, mscorlib">
+    <value>False</value>
   </data>
   <data name="txtUrun.Location" type="System.Drawing.Point, System.Drawing">
     <value>87, 370</value>
@@ -1560,7 +1566,7 @@
     <value>$this</value>
   </data>
   <data name="&gt;&gt;txtUrun.ZOrder" xml:space="preserve">
-    <value>15</value>
+    <value>17</value>
   </data>
   <data name="btnTuru.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
     <value>NoControl</value>
@@ -1587,7 +1593,10 @@
     <value>$this</value>
   </data>
   <data name="&gt;&gt;btnTuru.ZOrder" xml:space="preserve">
-    <value>14</value>
+    <value>16</value>
+  </data>
+  <data name="txtTuru.Enabled" type="System.Boolean, mscorlib">
+    <value>False</value>
   </data>
   <data name="txtTuru.Location" type="System.Drawing.Point, System.Drawing">
     <value>87, 405</value>
@@ -1611,7 +1620,7 @@
     <value>$this</value>
   </data>
   <data name="&gt;&gt;txtTuru.ZOrder" xml:space="preserve">
-    <value>13</value>
+    <value>15</value>
   </data>
   <data name="btnOlcu.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
     <value>NoControl</value>
@@ -1638,7 +1647,10 @@
     <value>$this</value>
   </data>
   <data name="&gt;&gt;btnOlcu.ZOrder" xml:space="preserve">
-    <value>12</value>
+    <value>14</value>
+  </data>
+  <data name="txtOlcu.Enabled" type="System.Boolean, mscorlib">
+    <value>False</value>
   </data>
   <data name="txtOlcu.Location" type="System.Drawing.Point, System.Drawing">
     <value>88, 443</value>
@@ -1662,7 +1674,10 @@
     <value>$this</value>
   </data>
   <data name="&gt;&gt;txtOlcu.ZOrder" xml:space="preserve">
-    <value>11</value>
+    <value>13</value>
+  </data>
+  <data name="txtRenk.Enabled" type="System.Boolean, mscorlib">
+    <value>False</value>
   </data>
   <data name="txtRenk.Location" type="System.Drawing.Point, System.Drawing">
     <value>87, 477</value>
@@ -1686,7 +1701,7 @@
     <value>$this</value>
   </data>
   <data name="&gt;&gt;txtRenk.ZOrder" xml:space="preserve">
-    <value>10</value>
+    <value>12</value>
   </data>
   <data name="btnRenk.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
     <value>NoControl</value>
@@ -1713,7 +1728,7 @@
     <value>$this</value>
   </data>
   <data name="&gt;&gt;btnRenk.ZOrder" xml:space="preserve">
-    <value>9</value>
+    <value>11</value>
   </data>
   <data name="label3.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
     <value>NoControl</value>
@@ -1743,7 +1758,7 @@
     <value>$this</value>
   </data>
   <data name="&gt;&gt;label3.ZOrder" xml:space="preserve">
-    <value>8</value>
+    <value>10</value>
   </data>
   <data name="label5.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
     <value>NoControl</value>
@@ -1968,7 +1983,7 @@
     <value>$this</value>
   </data>
   <data name="&gt;&gt;txtEtiket.ZOrder" xml:space="preserve">
-    <value>7</value>
+    <value>9</value>
   </data>
   <data name="&gt;&gt;txtYatBosluk1.Name" xml:space="preserve">
     <value>txtYatBosluk1</value>
@@ -2085,7 +2100,7 @@
     <value>$this</value>
   </data>
   <data name="&gt;&gt;grup1.ZOrder" xml:space="preserve">
-    <value>6</value>
+    <value>8</value>
   </data>
   <data name="txtYatBosluk1.Location" type="System.Drawing.Point, System.Drawing">
     <value>364, 13</value>
@@ -2189,6 +2204,108 @@
   <data name="&gt;&gt;txtDikBosluk1.ZOrder" xml:space="preserve">
     <value>3</value>
   </data>
+  <data name="txtYaziAlt1.Location" type="System.Drawing.Point, System.Drawing">
+    <value>364, 37</value>
+  </data>
+  <data name="txtYaziAlt1.Size" type="System.Drawing.Size, System.Drawing">
+    <value>45, 20</value>
+  </data>
+  <data name="txtYaziAlt1.TabIndex" type="System.Int32, mscorlib">
+    <value>65</value>
+  </data>
+  <data name="&gt;&gt;txtYaziAlt1.Name" xml:space="preserve">
+    <value>txtYaziAlt1</value>
+  </data>
+  <data name="&gt;&gt;txtYaziAlt1.Type" xml:space="preserve">
+    <value>System.Windows.Forms.NumericUpDown, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;txtYaziAlt1.Parent" xml:space="preserve">
+    <value>grup1</value>
+  </data>
+  <data name="&gt;&gt;txtYaziAlt1.ZOrder" xml:space="preserve">
+    <value>4</value>
+  </data>
+  <data name="txtYaziUst1.Location" type="System.Drawing.Point, System.Drawing">
+    <value>150, 39</value>
+  </data>
+  <data name="txtYaziUst1.Size" type="System.Drawing.Size, System.Drawing">
+    <value>45, 20</value>
+  </data>
+  <data name="txtYaziUst1.TabIndex" type="System.Int32, mscorlib">
+    <value>49</value>
+  </data>
+  <data name="&gt;&gt;txtYaziUst1.Name" xml:space="preserve">
+    <value>txtYaziUst1</value>
+  </data>
+  <data name="&gt;&gt;txtYaziUst1.Type" xml:space="preserve">
+    <value>System.Windows.Forms.NumericUpDown, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;txtYaziUst1.Parent" xml:space="preserve">
+    <value>grup1</value>
+  </data>
+  <data name="&gt;&gt;txtYaziUst1.ZOrder" xml:space="preserve">
+    <value>5</value>
+  </data>
+  <data name="label27.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="label27.Location" type="System.Drawing.Point, System.Drawing">
+    <value>9, 38</value>
+  </data>
+  <data name="label27.Size" type="System.Drawing.Size, System.Drawing">
+    <value>114, 19</value>
+  </data>
+  <data name="label27.TabIndex" type="System.Int32, mscorlib">
+    <value>49</value>
+  </data>
+  <data name="label27.Text" xml:space="preserve">
+    <value>ÜST YAZI BAŞLIK 1</value>
+  </data>
+  <data name="label27.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
+    <value>MiddleLeft</value>
+  </data>
+  <data name="&gt;&gt;label27.Name" xml:space="preserve">
+    <value>label27</value>
+  </data>
+  <data name="&gt;&gt;label27.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;label27.Parent" xml:space="preserve">
+    <value>grup1</value>
+  </data>
+  <data name="&gt;&gt;label27.ZOrder" xml:space="preserve">
+    <value>6</value>
+  </data>
+  <data name="label32.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="label32.Location" type="System.Drawing.Point, System.Drawing">
+    <value>206, 38</value>
+  </data>
+  <data name="label32.Size" type="System.Drawing.Size, System.Drawing">
+    <value>115, 19</value>
+  </data>
+  <data name="label32.TabIndex" type="System.Int32, mscorlib">
+    <value>86</value>
+  </data>
+  <data name="label32.Text" xml:space="preserve">
+    <value>ALT YAZI BAŞLIK 1</value>
+  </data>
+  <data name="label32.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
+    <value>MiddleLeft</value>
+  </data>
+  <data name="&gt;&gt;label32.Name" xml:space="preserve">
+    <value>label32</value>
+  </data>
+  <data name="&gt;&gt;label32.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;label32.Parent" xml:space="preserve">
+    <value>grup1</value>
+  </data>
+  <data name="&gt;&gt;label32.ZOrder" xml:space="preserve">
+    <value>7</value>
+  </data>
   <data name="&gt;&gt;txtYaziAlt2.Name" xml:space="preserve">
     <value>txtYaziAlt2</value>
   </data>
@@ -2256,7 +2373,109 @@
     <value>$this</value>
   </data>
   <data name="&gt;&gt;grup2.ZOrder" xml:space="preserve">
+    <value>7</value>
+  </data>
+  <data name="txtYaziAlt2.Location" type="System.Drawing.Point, System.Drawing">
+    <value>364, 36</value>
+  </data>
+  <data name="txtYaziAlt2.Size" type="System.Drawing.Size, System.Drawing">
+    <value>45, 20</value>
+  </data>
+  <data name="txtYaziAlt2.TabIndex" type="System.Int32, mscorlib">
+    <value>67</value>
+  </data>
+  <data name="&gt;&gt;txtYaziAlt2.Name" xml:space="preserve">
+    <value>txtYaziAlt2</value>
+  </data>
+  <data name="&gt;&gt;txtYaziAlt2.Type" xml:space="preserve">
+    <value>System.Windows.Forms.NumericUpDown, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;txtYaziAlt2.Parent" xml:space="preserve">
+    <value>grup2</value>
+  </data>
+  <data name="&gt;&gt;txtYaziAlt2.ZOrder" xml:space="preserve">
+    <value>4</value>
+  </data>
+  <data name="label33.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="label33.Location" type="System.Drawing.Point, System.Drawing">
+    <value>208, 37</value>
+  </data>
+  <data name="label33.Size" type="System.Drawing.Size, System.Drawing">
+    <value>145, 19</value>
+  </data>
+  <data name="label33.TabIndex" type="System.Int32, mscorlib">
+    <value>95</value>
+  </data>
+  <data name="label33.Text" xml:space="preserve">
+    <value>ALT YAZI BAŞLIK 2</value>
+  </data>
+  <data name="label33.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
+    <value>MiddleLeft</value>
+  </data>
+  <data name="&gt;&gt;label33.Name" xml:space="preserve">
+    <value>label33</value>
+  </data>
+  <data name="&gt;&gt;label33.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;label33.Parent" xml:space="preserve">
+    <value>grup2</value>
+  </data>
+  <data name="&gt;&gt;label33.ZOrder" xml:space="preserve">
     <value>5</value>
+  </data>
+  <data name="txtYaziUst2.Location" type="System.Drawing.Point, System.Drawing">
+    <value>150, 38</value>
+  </data>
+  <data name="txtYaziUst2.Size" type="System.Drawing.Size, System.Drawing">
+    <value>45, 20</value>
+  </data>
+  <data name="txtYaziUst2.TabIndex" type="System.Int32, mscorlib">
+    <value>66</value>
+  </data>
+  <data name="&gt;&gt;txtYaziUst2.Name" xml:space="preserve">
+    <value>txtYaziUst2</value>
+  </data>
+  <data name="&gt;&gt;txtYaziUst2.Type" xml:space="preserve">
+    <value>System.Windows.Forms.NumericUpDown, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;txtYaziUst2.Parent" xml:space="preserve">
+    <value>grup2</value>
+  </data>
+  <data name="&gt;&gt;txtYaziUst2.ZOrder" xml:space="preserve">
+    <value>6</value>
+  </data>
+  <data name="label28.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="label28.Location" type="System.Drawing.Point, System.Drawing">
+    <value>9, 37</value>
+  </data>
+  <data name="label28.Size" type="System.Drawing.Size, System.Drawing">
+    <value>136, 19</value>
+  </data>
+  <data name="label28.TabIndex" type="System.Int32, mscorlib">
+    <value>91</value>
+  </data>
+  <data name="label28.Text" xml:space="preserve">
+    <value>ÜST YAZI BAŞLIK 2</value>
+  </data>
+  <data name="label28.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
+    <value>MiddleLeft</value>
+  </data>
+  <data name="&gt;&gt;label28.Name" xml:space="preserve">
+    <value>label28</value>
+  </data>
+  <data name="&gt;&gt;label28.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;label28.Parent" xml:space="preserve">
+    <value>grup2</value>
+  </data>
+  <data name="&gt;&gt;label28.ZOrder" xml:space="preserve">
+    <value>7</value>
   </data>
   <data name="&gt;&gt;label36.Name" xml:space="preserve">
     <value>label36</value>
@@ -2325,7 +2544,109 @@
     <value>$this</value>
   </data>
   <data name="&gt;&gt;grup5.ZOrder" xml:space="preserve">
+    <value>6</value>
+  </data>
+  <data name="label36.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="label36.Location" type="System.Drawing.Point, System.Drawing">
+    <value>203, 37</value>
+  </data>
+  <data name="label36.Size" type="System.Drawing.Size, System.Drawing">
+    <value>115, 19</value>
+  </data>
+  <data name="label36.TabIndex" type="System.Int32, mscorlib">
+    <value>98</value>
+  </data>
+  <data name="label36.Text" xml:space="preserve">
+    <value>ALT YAZI BAŞLIK 5</value>
+  </data>
+  <data name="label36.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
+    <value>MiddleLeft</value>
+  </data>
+  <data name="&gt;&gt;label36.Name" xml:space="preserve">
+    <value>label36</value>
+  </data>
+  <data name="&gt;&gt;label36.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;label36.Parent" xml:space="preserve">
+    <value>grup5</value>
+  </data>
+  <data name="&gt;&gt;label36.ZOrder" xml:space="preserve">
+    <value>2</value>
+  </data>
+  <data name="label31.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="label31.Location" type="System.Drawing.Point, System.Drawing">
+    <value>11, 37</value>
+  </data>
+  <data name="label31.Size" type="System.Drawing.Size, System.Drawing">
+    <value>114, 19</value>
+  </data>
+  <data name="label31.TabIndex" type="System.Int32, mscorlib">
+    <value>94</value>
+  </data>
+  <data name="label31.Text" xml:space="preserve">
+    <value>ÜST YAZI BAŞLIK 5</value>
+  </data>
+  <data name="label31.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
+    <value>MiddleLeft</value>
+  </data>
+  <data name="&gt;&gt;label31.Name" xml:space="preserve">
+    <value>label31</value>
+  </data>
+  <data name="&gt;&gt;label31.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;label31.Parent" xml:space="preserve">
+    <value>grup5</value>
+  </data>
+  <data name="&gt;&gt;label31.ZOrder" xml:space="preserve">
     <value>4</value>
+  </data>
+  <data name="txtYaziAlt5.Location" type="System.Drawing.Point, System.Drawing">
+    <value>364, 36</value>
+  </data>
+  <data name="txtYaziAlt5.Size" type="System.Drawing.Size, System.Drawing">
+    <value>45, 20</value>
+  </data>
+  <data name="txtYaziAlt5.TabIndex" type="System.Int32, mscorlib">
+    <value>73</value>
+  </data>
+  <data name="&gt;&gt;txtYaziAlt5.Name" xml:space="preserve">
+    <value>txtYaziAlt5</value>
+  </data>
+  <data name="&gt;&gt;txtYaziAlt5.Type" xml:space="preserve">
+    <value>System.Windows.Forms.NumericUpDown, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;txtYaziAlt5.Parent" xml:space="preserve">
+    <value>grup5</value>
+  </data>
+  <data name="&gt;&gt;txtYaziAlt5.ZOrder" xml:space="preserve">
+    <value>6</value>
+  </data>
+  <data name="txtYaziUst5.Location" type="System.Drawing.Point, System.Drawing">
+    <value>150, 37</value>
+  </data>
+  <data name="txtYaziUst5.Size" type="System.Drawing.Size, System.Drawing">
+    <value>45, 20</value>
+  </data>
+  <data name="txtYaziUst5.TabIndex" type="System.Int32, mscorlib">
+    <value>72</value>
+  </data>
+  <data name="&gt;&gt;txtYaziUst5.Name" xml:space="preserve">
+    <value>txtYaziUst5</value>
+  </data>
+  <data name="&gt;&gt;txtYaziUst5.Type" xml:space="preserve">
+    <value>System.Windows.Forms.NumericUpDown, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;txtYaziUst5.Parent" xml:space="preserve">
+    <value>grup5</value>
+  </data>
+  <data name="&gt;&gt;txtYaziUst5.ZOrder" xml:space="preserve">
+    <value>7</value>
   </data>
   <data name="&gt;&gt;txtYatBosluk3.Name" xml:space="preserve">
     <value>txtYatBosluk3</value>
@@ -2442,7 +2763,7 @@
     <value>$this</value>
   </data>
   <data name="&gt;&gt;grup3.ZOrder" xml:space="preserve">
-    <value>3</value>
+    <value>5</value>
   </data>
   <data name="txtYatBosluk3.Location" type="System.Drawing.Point, System.Drawing">
     <value>364, 11</value>
@@ -2545,6 +2866,108 @@
   </data>
   <data name="&gt;&gt;label19.ZOrder" xml:space="preserve">
     <value>3</value>
+  </data>
+  <data name="label35.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="label35.Location" type="System.Drawing.Point, System.Drawing">
+    <value>206, 35</value>
+  </data>
+  <data name="label35.Size" type="System.Drawing.Size, System.Drawing">
+    <value>115, 19</value>
+  </data>
+  <data name="label35.TabIndex" type="System.Int32, mscorlib">
+    <value>96</value>
+  </data>
+  <data name="label35.Text" xml:space="preserve">
+    <value>ALT YAZI BAŞLIK 3</value>
+  </data>
+  <data name="label35.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
+    <value>MiddleLeft</value>
+  </data>
+  <data name="&gt;&gt;label35.Name" xml:space="preserve">
+    <value>label35</value>
+  </data>
+  <data name="&gt;&gt;label35.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;label35.Parent" xml:space="preserve">
+    <value>grup3</value>
+  </data>
+  <data name="&gt;&gt;label35.ZOrder" xml:space="preserve">
+    <value>4</value>
+  </data>
+  <data name="txtYaziAlt3.Location" type="System.Drawing.Point, System.Drawing">
+    <value>364, 38</value>
+  </data>
+  <data name="txtYaziAlt3.Size" type="System.Drawing.Size, System.Drawing">
+    <value>45, 20</value>
+  </data>
+  <data name="txtYaziAlt3.TabIndex" type="System.Int32, mscorlib">
+    <value>69</value>
+  </data>
+  <data name="&gt;&gt;txtYaziAlt3.Name" xml:space="preserve">
+    <value>txtYaziAlt3</value>
+  </data>
+  <data name="&gt;&gt;txtYaziAlt3.Type" xml:space="preserve">
+    <value>System.Windows.Forms.NumericUpDown, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;txtYaziAlt3.Parent" xml:space="preserve">
+    <value>grup3</value>
+  </data>
+  <data name="&gt;&gt;txtYaziAlt3.ZOrder" xml:space="preserve">
+    <value>5</value>
+  </data>
+  <data name="txtYaziUst3.Location" type="System.Drawing.Point, System.Drawing">
+    <value>150, 36</value>
+  </data>
+  <data name="txtYaziUst3.Size" type="System.Drawing.Size, System.Drawing">
+    <value>45, 20</value>
+  </data>
+  <data name="txtYaziUst3.TabIndex" type="System.Int32, mscorlib">
+    <value>68</value>
+  </data>
+  <data name="&gt;&gt;txtYaziUst3.Name" xml:space="preserve">
+    <value>txtYaziUst3</value>
+  </data>
+  <data name="&gt;&gt;txtYaziUst3.Type" xml:space="preserve">
+    <value>System.Windows.Forms.NumericUpDown, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;txtYaziUst3.Parent" xml:space="preserve">
+    <value>grup3</value>
+  </data>
+  <data name="&gt;&gt;txtYaziUst3.ZOrder" xml:space="preserve">
+    <value>6</value>
+  </data>
+  <data name="label29.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="label29.Location" type="System.Drawing.Point, System.Drawing">
+    <value>11, 37</value>
+  </data>
+  <data name="label29.Size" type="System.Drawing.Size, System.Drawing">
+    <value>114, 19</value>
+  </data>
+  <data name="label29.TabIndex" type="System.Int32, mscorlib">
+    <value>92</value>
+  </data>
+  <data name="label29.Text" xml:space="preserve">
+    <value>ÜST YAZI BAŞLIK 3</value>
+  </data>
+  <data name="label29.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
+    <value>MiddleLeft</value>
+  </data>
+  <data name="&gt;&gt;label29.Name" xml:space="preserve">
+    <value>label29</value>
+  </data>
+  <data name="&gt;&gt;label29.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;label29.Parent" xml:space="preserve">
+    <value>grup3</value>
+  </data>
+  <data name="&gt;&gt;label29.ZOrder" xml:space="preserve">
+    <value>7</value>
   </data>
   <data name="&gt;&gt;txtYatBosluk4.Name" xml:space="preserve">
     <value>txtYatBosluk4</value>
@@ -2661,7 +3084,7 @@
     <value>$this</value>
   </data>
   <data name="&gt;&gt;grup4.ZOrder" xml:space="preserve">
-    <value>2</value>
+    <value>4</value>
   </data>
   <data name="txtYatBosluk4.Location" type="System.Drawing.Point, System.Drawing">
     <value>364, 10</value>
@@ -2735,6 +3158,36 @@
   <data name="&gt;&gt;txtDikBosluk4.ZOrder" xml:space="preserve">
     <value>2</value>
   </data>
+  <data name="label34.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="label34.Location" type="System.Drawing.Point, System.Drawing">
+    <value>203, 36</value>
+  </data>
+  <data name="label34.Size" type="System.Drawing.Size, System.Drawing">
+    <value>150, 19</value>
+  </data>
+  <data name="label34.TabIndex" type="System.Int32, mscorlib">
+    <value>97</value>
+  </data>
+  <data name="label34.Text" xml:space="preserve">
+    <value>ALT YAZI BAŞLIK 4</value>
+  </data>
+  <data name="label34.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
+    <value>MiddleLeft</value>
+  </data>
+  <data name="&gt;&gt;label34.Name" xml:space="preserve">
+    <value>label34</value>
+  </data>
+  <data name="&gt;&gt;label34.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;label34.Parent" xml:space="preserve">
+    <value>grup4</value>
+  </data>
+  <data name="&gt;&gt;label34.ZOrder" xml:space="preserve">
+    <value>3</value>
+  </data>
   <data name="label21.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
     <value>NoControl</value>
   </data>
@@ -2765,90 +3218,6 @@
   <data name="&gt;&gt;label21.ZOrder" xml:space="preserve">
     <value>4</value>
   </data>
-  <data name="txtYaziUst1.Location" type="System.Drawing.Point, System.Drawing">
-    <value>150, 39</value>
-  </data>
-  <data name="txtYaziUst1.Size" type="System.Drawing.Size, System.Drawing">
-    <value>45, 20</value>
-  </data>
-  <data name="txtYaziUst1.TabIndex" type="System.Int32, mscorlib">
-    <value>49</value>
-  </data>
-  <data name="&gt;&gt;txtYaziUst1.Name" xml:space="preserve">
-    <value>txtYaziUst1</value>
-  </data>
-  <data name="&gt;&gt;txtYaziUst1.Type" xml:space="preserve">
-    <value>System.Windows.Forms.NumericUpDown, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;txtYaziUst1.Parent" xml:space="preserve">
-    <value>grup1</value>
-  </data>
-  <data name="&gt;&gt;txtYaziUst1.ZOrder" xml:space="preserve">
-    <value>5</value>
-  </data>
-  <data name="txtYaziAlt1.Location" type="System.Drawing.Point, System.Drawing">
-    <value>364, 37</value>
-  </data>
-  <data name="txtYaziAlt1.Size" type="System.Drawing.Size, System.Drawing">
-    <value>45, 20</value>
-  </data>
-  <data name="txtYaziAlt1.TabIndex" type="System.Int32, mscorlib">
-    <value>65</value>
-  </data>
-  <data name="&gt;&gt;txtYaziAlt1.Name" xml:space="preserve">
-    <value>txtYaziAlt1</value>
-  </data>
-  <data name="&gt;&gt;txtYaziAlt1.Type" xml:space="preserve">
-    <value>System.Windows.Forms.NumericUpDown, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;txtYaziAlt1.Parent" xml:space="preserve">
-    <value>grup1</value>
-  </data>
-  <data name="&gt;&gt;txtYaziAlt1.ZOrder" xml:space="preserve">
-    <value>4</value>
-  </data>
-  <data name="txtYaziAlt2.Location" type="System.Drawing.Point, System.Drawing">
-    <value>364, 36</value>
-  </data>
-  <data name="txtYaziAlt2.Size" type="System.Drawing.Size, System.Drawing">
-    <value>45, 20</value>
-  </data>
-  <data name="txtYaziAlt2.TabIndex" type="System.Int32, mscorlib">
-    <value>67</value>
-  </data>
-  <data name="&gt;&gt;txtYaziAlt2.Name" xml:space="preserve">
-    <value>txtYaziAlt2</value>
-  </data>
-  <data name="&gt;&gt;txtYaziAlt2.Type" xml:space="preserve">
-    <value>System.Windows.Forms.NumericUpDown, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;txtYaziAlt2.Parent" xml:space="preserve">
-    <value>grup2</value>
-  </data>
-  <data name="&gt;&gt;txtYaziAlt2.ZOrder" xml:space="preserve">
-    <value>4</value>
-  </data>
-  <data name="txtYaziUst2.Location" type="System.Drawing.Point, System.Drawing">
-    <value>150, 38</value>
-  </data>
-  <data name="txtYaziUst2.Size" type="System.Drawing.Size, System.Drawing">
-    <value>45, 20</value>
-  </data>
-  <data name="txtYaziUst2.TabIndex" type="System.Int32, mscorlib">
-    <value>66</value>
-  </data>
-  <data name="&gt;&gt;txtYaziUst2.Name" xml:space="preserve">
-    <value>txtYaziUst2</value>
-  </data>
-  <data name="&gt;&gt;txtYaziUst2.Type" xml:space="preserve">
-    <value>System.Windows.Forms.NumericUpDown, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;txtYaziUst2.Parent" xml:space="preserve">
-    <value>grup2</value>
-  </data>
-  <data name="&gt;&gt;txtYaziUst2.ZOrder" xml:space="preserve">
-    <value>6</value>
-  </data>
   <data name="txtYaziAlt4.Location" type="System.Drawing.Point, System.Drawing">
     <value>364, 36</value>
   </data>
@@ -2870,6 +3239,36 @@
   <data name="&gt;&gt;txtYaziAlt4.ZOrder" xml:space="preserve">
     <value>5</value>
   </data>
+  <data name="label30.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="label30.Location" type="System.Drawing.Point, System.Drawing">
+    <value>11, 37</value>
+  </data>
+  <data name="label30.Size" type="System.Drawing.Size, System.Drawing">
+    <value>135, 19</value>
+  </data>
+  <data name="label30.TabIndex" type="System.Int32, mscorlib">
+    <value>93</value>
+  </data>
+  <data name="label30.Text" xml:space="preserve">
+    <value>ÜST YAZI BAŞLIK 4</value>
+  </data>
+  <data name="label30.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
+    <value>MiddleLeft</value>
+  </data>
+  <data name="&gt;&gt;label30.Name" xml:space="preserve">
+    <value>label30</value>
+  </data>
+  <data name="&gt;&gt;label30.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;label30.Parent" xml:space="preserve">
+    <value>grup4</value>
+  </data>
+  <data name="&gt;&gt;label30.ZOrder" xml:space="preserve">
+    <value>6</value>
+  </data>
   <data name="txtYaziUst4.Location" type="System.Drawing.Point, System.Drawing">
     <value>152, 37</value>
   </data>
@@ -2889,90 +3288,6 @@
     <value>grup4</value>
   </data>
   <data name="&gt;&gt;txtYaziUst4.ZOrder" xml:space="preserve">
-    <value>7</value>
-  </data>
-  <data name="txtYaziAlt3.Location" type="System.Drawing.Point, System.Drawing">
-    <value>364, 38</value>
-  </data>
-  <data name="txtYaziAlt3.Size" type="System.Drawing.Size, System.Drawing">
-    <value>45, 20</value>
-  </data>
-  <data name="txtYaziAlt3.TabIndex" type="System.Int32, mscorlib">
-    <value>69</value>
-  </data>
-  <data name="&gt;&gt;txtYaziAlt3.Name" xml:space="preserve">
-    <value>txtYaziAlt3</value>
-  </data>
-  <data name="&gt;&gt;txtYaziAlt3.Type" xml:space="preserve">
-    <value>System.Windows.Forms.NumericUpDown, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;txtYaziAlt3.Parent" xml:space="preserve">
-    <value>grup3</value>
-  </data>
-  <data name="&gt;&gt;txtYaziAlt3.ZOrder" xml:space="preserve">
-    <value>5</value>
-  </data>
-  <data name="txtYaziUst3.Location" type="System.Drawing.Point, System.Drawing">
-    <value>150, 36</value>
-  </data>
-  <data name="txtYaziUst3.Size" type="System.Drawing.Size, System.Drawing">
-    <value>45, 20</value>
-  </data>
-  <data name="txtYaziUst3.TabIndex" type="System.Int32, mscorlib">
-    <value>68</value>
-  </data>
-  <data name="&gt;&gt;txtYaziUst3.Name" xml:space="preserve">
-    <value>txtYaziUst3</value>
-  </data>
-  <data name="&gt;&gt;txtYaziUst3.Type" xml:space="preserve">
-    <value>System.Windows.Forms.NumericUpDown, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;txtYaziUst3.Parent" xml:space="preserve">
-    <value>grup3</value>
-  </data>
-  <data name="&gt;&gt;txtYaziUst3.ZOrder" xml:space="preserve">
-    <value>6</value>
-  </data>
-  <data name="txtYaziAlt5.Location" type="System.Drawing.Point, System.Drawing">
-    <value>364, 36</value>
-  </data>
-  <data name="txtYaziAlt5.Size" type="System.Drawing.Size, System.Drawing">
-    <value>45, 20</value>
-  </data>
-  <data name="txtYaziAlt5.TabIndex" type="System.Int32, mscorlib">
-    <value>73</value>
-  </data>
-  <data name="&gt;&gt;txtYaziAlt5.Name" xml:space="preserve">
-    <value>txtYaziAlt5</value>
-  </data>
-  <data name="&gt;&gt;txtYaziAlt5.Type" xml:space="preserve">
-    <value>System.Windows.Forms.NumericUpDown, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;txtYaziAlt5.Parent" xml:space="preserve">
-    <value>grup5</value>
-  </data>
-  <data name="&gt;&gt;txtYaziAlt5.ZOrder" xml:space="preserve">
-    <value>6</value>
-  </data>
-  <data name="txtYaziUst5.Location" type="System.Drawing.Point, System.Drawing">
-    <value>150, 37</value>
-  </data>
-  <data name="txtYaziUst5.Size" type="System.Drawing.Size, System.Drawing">
-    <value>45, 20</value>
-  </data>
-  <data name="txtYaziUst5.TabIndex" type="System.Int32, mscorlib">
-    <value>72</value>
-  </data>
-  <data name="&gt;&gt;txtYaziUst5.Name" xml:space="preserve">
-    <value>txtYaziUst5</value>
-  </data>
-  <data name="&gt;&gt;txtYaziUst5.Type" xml:space="preserve">
-    <value>System.Windows.Forms.NumericUpDown, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;txtYaziUst5.Parent" xml:space="preserve">
-    <value>grup5</value>
-  </data>
-  <data name="&gt;&gt;txtYaziUst5.ZOrder" xml:space="preserve">
     <value>7</value>
   </data>
   <data name="txtUstYaziMesfe.Location" type="System.Drawing.Point, System.Drawing">
@@ -3140,306 +3455,6 @@
   <data name="&gt;&gt;contextMenuStrip1.Type" xml:space="preserve">
     <value>System.Windows.Forms.ContextMenuStrip, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
-  <data name="label27.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
-    <value>NoControl</value>
-  </data>
-  <data name="label27.Location" type="System.Drawing.Point, System.Drawing">
-    <value>9, 38</value>
-  </data>
-  <data name="label27.Size" type="System.Drawing.Size, System.Drawing">
-    <value>114, 19</value>
-  </data>
-  <data name="label27.TabIndex" type="System.Int32, mscorlib">
-    <value>49</value>
-  </data>
-  <data name="label27.Text" xml:space="preserve">
-    <value>ÜST YAZI BAŞLIK 1</value>
-  </data>
-  <data name="label27.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
-    <value>MiddleLeft</value>
-  </data>
-  <data name="&gt;&gt;label27.Name" xml:space="preserve">
-    <value>label27</value>
-  </data>
-  <data name="&gt;&gt;label27.Type" xml:space="preserve">
-    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;label27.Parent" xml:space="preserve">
-    <value>grup1</value>
-  </data>
-  <data name="&gt;&gt;label27.ZOrder" xml:space="preserve">
-    <value>6</value>
-  </data>
-  <data name="label32.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
-    <value>NoControl</value>
-  </data>
-  <data name="label32.Location" type="System.Drawing.Point, System.Drawing">
-    <value>206, 38</value>
-  </data>
-  <data name="label32.Size" type="System.Drawing.Size, System.Drawing">
-    <value>115, 19</value>
-  </data>
-  <data name="label32.TabIndex" type="System.Int32, mscorlib">
-    <value>86</value>
-  </data>
-  <data name="label32.Text" xml:space="preserve">
-    <value>ALT YAZI BAŞLIK 1</value>
-  </data>
-  <data name="label32.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
-    <value>MiddleLeft</value>
-  </data>
-  <data name="&gt;&gt;label32.Name" xml:space="preserve">
-    <value>label32</value>
-  </data>
-  <data name="&gt;&gt;label32.Type" xml:space="preserve">
-    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;label32.Parent" xml:space="preserve">
-    <value>grup1</value>
-  </data>
-  <data name="&gt;&gt;label32.ZOrder" xml:space="preserve">
-    <value>7</value>
-  </data>
-  <data name="label28.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
-    <value>NoControl</value>
-  </data>
-  <data name="label28.Location" type="System.Drawing.Point, System.Drawing">
-    <value>9, 37</value>
-  </data>
-  <data name="label28.Size" type="System.Drawing.Size, System.Drawing">
-    <value>136, 19</value>
-  </data>
-  <data name="label28.TabIndex" type="System.Int32, mscorlib">
-    <value>91</value>
-  </data>
-  <data name="label28.Text" xml:space="preserve">
-    <value>ÜST YAZI BAŞLIK 2</value>
-  </data>
-  <data name="label28.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
-    <value>MiddleLeft</value>
-  </data>
-  <data name="&gt;&gt;label28.Name" xml:space="preserve">
-    <value>label28</value>
-  </data>
-  <data name="&gt;&gt;label28.Type" xml:space="preserve">
-    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;label28.Parent" xml:space="preserve">
-    <value>grup2</value>
-  </data>
-  <data name="&gt;&gt;label28.ZOrder" xml:space="preserve">
-    <value>7</value>
-  </data>
-  <data name="label29.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
-    <value>NoControl</value>
-  </data>
-  <data name="label29.Location" type="System.Drawing.Point, System.Drawing">
-    <value>11, 37</value>
-  </data>
-  <data name="label29.Size" type="System.Drawing.Size, System.Drawing">
-    <value>114, 19</value>
-  </data>
-  <data name="label29.TabIndex" type="System.Int32, mscorlib">
-    <value>92</value>
-  </data>
-  <data name="label29.Text" xml:space="preserve">
-    <value>ÜST YAZI BAŞLIK 3</value>
-  </data>
-  <data name="label29.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
-    <value>MiddleLeft</value>
-  </data>
-  <data name="&gt;&gt;label29.Name" xml:space="preserve">
-    <value>label29</value>
-  </data>
-  <data name="&gt;&gt;label29.Type" xml:space="preserve">
-    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;label29.Parent" xml:space="preserve">
-    <value>grup3</value>
-  </data>
-  <data name="&gt;&gt;label29.ZOrder" xml:space="preserve">
-    <value>7</value>
-  </data>
-  <data name="label30.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
-    <value>NoControl</value>
-  </data>
-  <data name="label30.Location" type="System.Drawing.Point, System.Drawing">
-    <value>11, 37</value>
-  </data>
-  <data name="label30.Size" type="System.Drawing.Size, System.Drawing">
-    <value>135, 19</value>
-  </data>
-  <data name="label30.TabIndex" type="System.Int32, mscorlib">
-    <value>93</value>
-  </data>
-  <data name="label30.Text" xml:space="preserve">
-    <value>ÜST YAZI BAŞLIK 4</value>
-  </data>
-  <data name="label30.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
-    <value>MiddleLeft</value>
-  </data>
-  <data name="&gt;&gt;label30.Name" xml:space="preserve">
-    <value>label30</value>
-  </data>
-  <data name="&gt;&gt;label30.Type" xml:space="preserve">
-    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;label30.Parent" xml:space="preserve">
-    <value>grup4</value>
-  </data>
-  <data name="&gt;&gt;label30.ZOrder" xml:space="preserve">
-    <value>6</value>
-  </data>
-  <data name="label31.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
-    <value>NoControl</value>
-  </data>
-  <data name="label31.Location" type="System.Drawing.Point, System.Drawing">
-    <value>11, 37</value>
-  </data>
-  <data name="label31.Size" type="System.Drawing.Size, System.Drawing">
-    <value>114, 19</value>
-  </data>
-  <data name="label31.TabIndex" type="System.Int32, mscorlib">
-    <value>94</value>
-  </data>
-  <data name="label31.Text" xml:space="preserve">
-    <value>ÜST YAZI BAŞLIK 5</value>
-  </data>
-  <data name="label31.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
-    <value>MiddleLeft</value>
-  </data>
-  <data name="&gt;&gt;label31.Name" xml:space="preserve">
-    <value>label31</value>
-  </data>
-  <data name="&gt;&gt;label31.Type" xml:space="preserve">
-    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;label31.Parent" xml:space="preserve">
-    <value>grup5</value>
-  </data>
-  <data name="&gt;&gt;label31.ZOrder" xml:space="preserve">
-    <value>4</value>
-  </data>
-  <data name="label33.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
-    <value>NoControl</value>
-  </data>
-  <data name="label33.Location" type="System.Drawing.Point, System.Drawing">
-    <value>208, 37</value>
-  </data>
-  <data name="label33.Size" type="System.Drawing.Size, System.Drawing">
-    <value>145, 19</value>
-  </data>
-  <data name="label33.TabIndex" type="System.Int32, mscorlib">
-    <value>95</value>
-  </data>
-  <data name="label33.Text" xml:space="preserve">
-    <value>ALT YAZI BAŞLIK 2</value>
-  </data>
-  <data name="label33.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
-    <value>MiddleLeft</value>
-  </data>
-  <data name="&gt;&gt;label33.Name" xml:space="preserve">
-    <value>label33</value>
-  </data>
-  <data name="&gt;&gt;label33.Type" xml:space="preserve">
-    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;label33.Parent" xml:space="preserve">
-    <value>grup2</value>
-  </data>
-  <data name="&gt;&gt;label33.ZOrder" xml:space="preserve">
-    <value>5</value>
-  </data>
-  <data name="label34.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
-    <value>NoControl</value>
-  </data>
-  <data name="label34.Location" type="System.Drawing.Point, System.Drawing">
-    <value>203, 36</value>
-  </data>
-  <data name="label34.Size" type="System.Drawing.Size, System.Drawing">
-    <value>150, 19</value>
-  </data>
-  <data name="label34.TabIndex" type="System.Int32, mscorlib">
-    <value>97</value>
-  </data>
-  <data name="label34.Text" xml:space="preserve">
-    <value>ALT YAZI BAŞLIK 4</value>
-  </data>
-  <data name="label34.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
-    <value>MiddleLeft</value>
-  </data>
-  <data name="&gt;&gt;label34.Name" xml:space="preserve">
-    <value>label34</value>
-  </data>
-  <data name="&gt;&gt;label34.Type" xml:space="preserve">
-    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;label34.Parent" xml:space="preserve">
-    <value>grup4</value>
-  </data>
-  <data name="&gt;&gt;label34.ZOrder" xml:space="preserve">
-    <value>3</value>
-  </data>
-  <data name="label35.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
-    <value>NoControl</value>
-  </data>
-  <data name="label35.Location" type="System.Drawing.Point, System.Drawing">
-    <value>206, 35</value>
-  </data>
-  <data name="label35.Size" type="System.Drawing.Size, System.Drawing">
-    <value>115, 19</value>
-  </data>
-  <data name="label35.TabIndex" type="System.Int32, mscorlib">
-    <value>96</value>
-  </data>
-  <data name="label35.Text" xml:space="preserve">
-    <value>ALT YAZI BAŞLIK 3</value>
-  </data>
-  <data name="label35.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
-    <value>MiddleLeft</value>
-  </data>
-  <data name="&gt;&gt;label35.Name" xml:space="preserve">
-    <value>label35</value>
-  </data>
-  <data name="&gt;&gt;label35.Type" xml:space="preserve">
-    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;label35.Parent" xml:space="preserve">
-    <value>grup3</value>
-  </data>
-  <data name="&gt;&gt;label35.ZOrder" xml:space="preserve">
-    <value>4</value>
-  </data>
-  <data name="label36.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
-    <value>NoControl</value>
-  </data>
-  <data name="label36.Location" type="System.Drawing.Point, System.Drawing">
-    <value>203, 37</value>
-  </data>
-  <data name="label36.Size" type="System.Drawing.Size, System.Drawing">
-    <value>115, 19</value>
-  </data>
-  <data name="label36.TabIndex" type="System.Int32, mscorlib">
-    <value>98</value>
-  </data>
-  <data name="label36.Text" xml:space="preserve">
-    <value>ALT YAZI BAŞLIK 5</value>
-  </data>
-  <data name="label36.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
-    <value>MiddleLeft</value>
-  </data>
-  <data name="&gt;&gt;label36.Name" xml:space="preserve">
-    <value>label36</value>
-  </data>
-  <data name="&gt;&gt;label36.Type" xml:space="preserve">
-    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;label36.Parent" xml:space="preserve">
-    <value>grup5</value>
-  </data>
-  <data name="&gt;&gt;label36.ZOrder" xml:space="preserve">
-    <value>2</value>
-  </data>
   <data name="groupBox1.Location" type="System.Drawing.Point, System.Drawing">
     <value>684, 40</value>
   </data>
@@ -3459,7 +3474,61 @@
     <value>$this</value>
   </data>
   <data name="&gt;&gt;groupBox1.ZOrder" xml:space="preserve">
+    <value>3</value>
+  </data>
+  <data name="label37.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="label37.Location" type="System.Drawing.Point, System.Drawing">
+    <value>13, 504</value>
+  </data>
+  <data name="label37.Size" type="System.Drawing.Size, System.Drawing">
+    <value>69, 19</value>
+  </data>
+  <data name="label37.TabIndex" type="System.Int32, mscorlib">
+    <value>100</value>
+  </data>
+  <data name="label37.Text" xml:space="preserve">
+    <value>Aliş Fiyat</value>
+  </data>
+  <data name="label37.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
+    <value>MiddleLeft</value>
+  </data>
+  <data name="&gt;&gt;label37.Name" xml:space="preserve">
+    <value>label37</value>
+  </data>
+  <data name="&gt;&gt;label37.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;label37.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;label37.ZOrder" xml:space="preserve">
     <value>1</value>
+  </data>
+  <data name="txtFiyat.Location" type="System.Drawing.Point, System.Drawing">
+    <value>86, 504</value>
+  </data>
+  <data name="txtFiyat.MaxLength" type="System.Int32, mscorlib">
+    <value>32</value>
+  </data>
+  <data name="txtFiyat.Size" type="System.Drawing.Size, System.Drawing">
+    <value>78, 20</value>
+  </data>
+  <data name="txtFiyat.TabIndex" type="System.Int32, mscorlib">
+    <value>101</value>
+  </data>
+  <data name="&gt;&gt;txtFiyat.Name" xml:space="preserve">
+    <value>txtFiyat</value>
+  </data>
+  <data name="&gt;&gt;txtFiyat.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TextBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;txtFiyat.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;txtFiyat.ZOrder" xml:space="preserve">
+    <value>0</value>
   </data>
   <metadata name="$this.Localizable" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
     <value>True</value>
@@ -3471,7 +3540,7 @@
     <value>6, 13</value>
   </data>
   <data name="$this.ClientSize" type="System.Drawing.Size, System.Drawing">
-    <value>958, 577</value>
+    <value>958, 594</value>
   </data>
   <data name="$this.StartPosition" type="System.Windows.Forms.FormStartPosition, System.Windows.Forms">
     <value>CenterScreen</value>

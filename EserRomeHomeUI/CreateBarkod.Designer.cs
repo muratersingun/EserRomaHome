@@ -92,28 +92,38 @@
             this.label7 = new System.Windows.Forms.Label();
             this.label4 = new System.Windows.Forms.Label();
             this.txtDikBosluk1 = new System.Windows.Forms.NumericUpDown();
+            this.txtYaziAlt1 = new System.Windows.Forms.NumericUpDown();
+            this.txtYaziUst1 = new System.Windows.Forms.NumericUpDown();
+            this.label27 = new System.Windows.Forms.Label();
+            this.label32 = new System.Windows.Forms.Label();
             this.grup2 = new System.Windows.Forms.GroupBox();
+            this.txtYaziAlt2 = new System.Windows.Forms.NumericUpDown();
+            this.label33 = new System.Windows.Forms.Label();
+            this.txtYaziUst2 = new System.Windows.Forms.NumericUpDown();
+            this.label28 = new System.Windows.Forms.Label();
             this.grup5 = new System.Windows.Forms.GroupBox();
+            this.label36 = new System.Windows.Forms.Label();
+            this.label31 = new System.Windows.Forms.Label();
+            this.txtYaziAlt5 = new System.Windows.Forms.NumericUpDown();
+            this.txtYaziUst5 = new System.Windows.Forms.NumericUpDown();
             this.grup3 = new System.Windows.Forms.GroupBox();
             this.txtYatBosluk3 = new System.Windows.Forms.NumericUpDown();
             this.label18 = new System.Windows.Forms.Label();
             this.txtDikBosluk3 = new System.Windows.Forms.NumericUpDown();
             this.label19 = new System.Windows.Forms.Label();
+            this.label35 = new System.Windows.Forms.Label();
+            this.txtYaziAlt3 = new System.Windows.Forms.NumericUpDown();
+            this.txtYaziUst3 = new System.Windows.Forms.NumericUpDown();
+            this.label29 = new System.Windows.Forms.Label();
             this.grup4 = new System.Windows.Forms.GroupBox();
             this.txtYatBosluk4 = new System.Windows.Forms.NumericUpDown();
             this.label20 = new System.Windows.Forms.Label();
             this.txtDikBosluk4 = new System.Windows.Forms.NumericUpDown();
+            this.label34 = new System.Windows.Forms.Label();
             this.label21 = new System.Windows.Forms.Label();
-            this.txtYaziUst1 = new System.Windows.Forms.NumericUpDown();
-            this.txtYaziAlt1 = new System.Windows.Forms.NumericUpDown();
-            this.txtYaziAlt2 = new System.Windows.Forms.NumericUpDown();
-            this.txtYaziUst2 = new System.Windows.Forms.NumericUpDown();
             this.txtYaziAlt4 = new System.Windows.Forms.NumericUpDown();
+            this.label30 = new System.Windows.Forms.Label();
             this.txtYaziUst4 = new System.Windows.Forms.NumericUpDown();
-            this.txtYaziAlt3 = new System.Windows.Forms.NumericUpDown();
-            this.txtYaziUst3 = new System.Windows.Forms.NumericUpDown();
-            this.txtYaziAlt5 = new System.Windows.Forms.NumericUpDown();
-            this.txtYaziUst5 = new System.Windows.Forms.NumericUpDown();
             this.txtUstYaziMesfe = new System.Windows.Forms.NumericUpDown();
             this.label24 = new System.Windows.Forms.Label();
             this.label25 = new System.Windows.Forms.Label();
@@ -121,17 +131,9 @@
             this.label26 = new System.Windows.Forms.Label();
             this.txtBaslikYazi = new System.Windows.Forms.NumericUpDown();
             this.contextMenuStrip1 = new System.Windows.Forms.ContextMenuStrip(this.components);
-            this.label27 = new System.Windows.Forms.Label();
-            this.label32 = new System.Windows.Forms.Label();
-            this.label28 = new System.Windows.Forms.Label();
-            this.label29 = new System.Windows.Forms.Label();
-            this.label30 = new System.Windows.Forms.Label();
-            this.label31 = new System.Windows.Forms.Label();
-            this.label33 = new System.Windows.Forms.Label();
-            this.label34 = new System.Windows.Forms.Label();
-            this.label35 = new System.Windows.Forms.Label();
-            this.label36 = new System.Windows.Forms.Label();
             this.groupBox1 = new System.Windows.Forms.GroupBox();
+            this.label37 = new System.Windows.Forms.Label();
+            this.txtFiyat = new System.Windows.Forms.TextBox();
             this.groupBox3.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.picture1)).BeginInit();
             this.groupBox4.SuspendLayout();
@@ -145,24 +147,24 @@
             this.grup1.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.txtYatBosluk1)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.txtDikBosluk1)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.txtYaziAlt1)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.txtYaziUst1)).BeginInit();
             this.grup2.SuspendLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.txtYaziAlt2)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.txtYaziUst2)).BeginInit();
             this.grup5.SuspendLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.txtYaziAlt5)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.txtYaziUst5)).BeginInit();
             this.grup3.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.txtYatBosluk3)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.txtDikBosluk3)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.txtYaziAlt3)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.txtYaziUst3)).BeginInit();
             this.grup4.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.txtYatBosluk4)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.txtDikBosluk4)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.txtYaziUst1)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.txtYaziAlt1)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.txtYaziAlt2)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.txtYaziUst2)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.txtYaziAlt4)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.txtYaziUst4)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.txtYaziAlt3)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.txtYaziUst3)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.txtYaziAlt5)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.txtYaziUst5)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.txtUstYaziMesfe)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.txtAltYaziMesfe)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.txtBaslikYazi)).BeginInit();
@@ -309,11 +311,14 @@
             // 
             // txtAltYazi
             // 
+            this.txtAltYazi.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
             resources.ApplyResources(this.txtAltYazi, "txtAltYazi");
             this.txtAltYazi.Name = "txtAltYazi";
+            this.txtAltYazi.TextChanged += new System.EventHandler(this.txtAltYazi_TextChanged);
             // 
             // txtUstYazi
             // 
+            this.txtUstYazi.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
             resources.ApplyResources(this.txtUstYazi, "txtUstYazi");
             this.txtUstYazi.Name = "txtUstYazi";
             // 
@@ -608,6 +613,38 @@
             0,
             0});
             // 
+            // txtYaziAlt1
+            // 
+            resources.ApplyResources(this.txtYaziAlt1, "txtYaziAlt1");
+            this.txtYaziAlt1.Name = "txtYaziAlt1";
+            this.txtYaziAlt1.Value = new decimal(new int[] {
+            65,
+            0,
+            0,
+            0});
+            // 
+            // txtYaziUst1
+            // 
+            resources.ApplyResources(this.txtYaziUst1, "txtYaziUst1");
+            this.txtYaziUst1.Name = "txtYaziUst1";
+            this.txtYaziUst1.Value = new decimal(new int[] {
+            2,
+            0,
+            0,
+            0});
+            // 
+            // label27
+            // 
+            this.label27.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
+            resources.ApplyResources(this.label27, "label27");
+            this.label27.Name = "label27";
+            // 
+            // label32
+            // 
+            this.label32.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
+            resources.ApplyResources(this.label32, "label32");
+            this.label32.Name = "label32";
+            // 
             // grup2
             // 
             this.grup2.Controls.Add(this.label17);
@@ -622,6 +659,43 @@
             this.grup2.Name = "grup2";
             this.grup2.TabStop = false;
             // 
+            // txtYaziAlt2
+            // 
+            resources.ApplyResources(this.txtYaziAlt2, "txtYaziAlt2");
+            this.txtYaziAlt2.Maximum = new decimal(new int[] {
+            1000,
+            0,
+            0,
+            0});
+            this.txtYaziAlt2.Name = "txtYaziAlt2";
+            this.txtYaziAlt2.Value = new decimal(new int[] {
+            145,
+            0,
+            0,
+            0});
+            // 
+            // label33
+            // 
+            this.label33.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
+            resources.ApplyResources(this.label33, "label33");
+            this.label33.Name = "label33";
+            // 
+            // txtYaziUst2
+            // 
+            resources.ApplyResources(this.txtYaziUst2, "txtYaziUst2");
+            this.txtYaziUst2.Name = "txtYaziUst2";
+            this.txtYaziUst2.Value = new decimal(new int[] {
+            80,
+            0,
+            0,
+            0});
+            // 
+            // label28
+            // 
+            this.label28.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
+            resources.ApplyResources(this.label28, "label28");
+            this.label28.Name = "label28";
+            // 
             // grup5
             // 
             this.grup5.Controls.Add(this.label22);
@@ -635,6 +709,48 @@
             resources.ApplyResources(this.grup5, "grup5");
             this.grup5.Name = "grup5";
             this.grup5.TabStop = false;
+            // 
+            // label36
+            // 
+            this.label36.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
+            resources.ApplyResources(this.label36, "label36");
+            this.label36.Name = "label36";
+            // 
+            // label31
+            // 
+            this.label31.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
+            resources.ApplyResources(this.label31, "label31");
+            this.label31.Name = "label31";
+            // 
+            // txtYaziAlt5
+            // 
+            resources.ApplyResources(this.txtYaziAlt5, "txtYaziAlt5");
+            this.txtYaziAlt5.Maximum = new decimal(new int[] {
+            1000,
+            0,
+            0,
+            0});
+            this.txtYaziAlt5.Name = "txtYaziAlt5";
+            this.txtYaziAlt5.Value = new decimal(new int[] {
+            381,
+            0,
+            0,
+            0});
+            // 
+            // txtYaziUst5
+            // 
+            resources.ApplyResources(this.txtYaziUst5, "txtYaziUst5");
+            this.txtYaziUst5.Maximum = new decimal(new int[] {
+            1000,
+            0,
+            0,
+            0});
+            this.txtYaziUst5.Name = "txtYaziUst5";
+            this.txtYaziUst5.Value = new decimal(new int[] {
+            317,
+            0,
+            0,
+            0});
             // 
             // grup3
             // 
@@ -683,6 +799,48 @@
             resources.ApplyResources(this.label19, "label19");
             this.label19.Name = "label19";
             // 
+            // label35
+            // 
+            this.label35.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
+            resources.ApplyResources(this.label35, "label35");
+            this.label35.Name = "label35";
+            // 
+            // txtYaziAlt3
+            // 
+            resources.ApplyResources(this.txtYaziAlt3, "txtYaziAlt3");
+            this.txtYaziAlt3.Maximum = new decimal(new int[] {
+            1000,
+            0,
+            0,
+            0});
+            this.txtYaziAlt3.Name = "txtYaziAlt3";
+            this.txtYaziAlt3.Value = new decimal(new int[] {
+            224,
+            0,
+            0,
+            0});
+            // 
+            // txtYaziUst3
+            // 
+            resources.ApplyResources(this.txtYaziUst3, "txtYaziUst3");
+            this.txtYaziUst3.Maximum = new decimal(new int[] {
+            1000,
+            0,
+            0,
+            0});
+            this.txtYaziUst3.Name = "txtYaziUst3";
+            this.txtYaziUst3.Value = new decimal(new int[] {
+            160,
+            0,
+            0,
+            0});
+            // 
+            // label29
+            // 
+            this.label29.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
+            resources.ApplyResources(this.label29, "label29");
+            this.label29.Name = "label29";
+            // 
             // grup4
             // 
             this.grup4.Controls.Add(this.txtYatBosluk4);
@@ -724,56 +882,17 @@
             0,
             65536});
             // 
+            // label34
+            // 
+            this.label34.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
+            resources.ApplyResources(this.label34, "label34");
+            this.label34.Name = "label34";
+            // 
             // label21
             // 
             this.label21.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
             resources.ApplyResources(this.label21, "label21");
             this.label21.Name = "label21";
-            // 
-            // txtYaziUst1
-            // 
-            resources.ApplyResources(this.txtYaziUst1, "txtYaziUst1");
-            this.txtYaziUst1.Name = "txtYaziUst1";
-            this.txtYaziUst1.Value = new decimal(new int[] {
-            2,
-            0,
-            0,
-            0});
-            // 
-            // txtYaziAlt1
-            // 
-            resources.ApplyResources(this.txtYaziAlt1, "txtYaziAlt1");
-            this.txtYaziAlt1.Name = "txtYaziAlt1";
-            this.txtYaziAlt1.Value = new decimal(new int[] {
-            65,
-            0,
-            0,
-            0});
-            // 
-            // txtYaziAlt2
-            // 
-            resources.ApplyResources(this.txtYaziAlt2, "txtYaziAlt2");
-            this.txtYaziAlt2.Maximum = new decimal(new int[] {
-            1000,
-            0,
-            0,
-            0});
-            this.txtYaziAlt2.Name = "txtYaziAlt2";
-            this.txtYaziAlt2.Value = new decimal(new int[] {
-            145,
-            0,
-            0,
-            0});
-            // 
-            // txtYaziUst2
-            // 
-            resources.ApplyResources(this.txtYaziUst2, "txtYaziUst2");
-            this.txtYaziUst2.Name = "txtYaziUst2";
-            this.txtYaziUst2.Value = new decimal(new int[] {
-            80,
-            0,
-            0,
-            0});
             // 
             // txtYaziAlt4
             // 
@@ -790,6 +909,12 @@
             0,
             0});
             // 
+            // label30
+            // 
+            this.label30.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
+            resources.ApplyResources(this.label30, "label30");
+            this.label30.Name = "label30";
+            // 
             // txtYaziUst4
             // 
             resources.ApplyResources(this.txtYaziUst4, "txtYaziUst4");
@@ -801,66 +926,6 @@
             this.txtYaziUst4.Name = "txtYaziUst4";
             this.txtYaziUst4.Value = new decimal(new int[] {
             238,
-            0,
-            0,
-            0});
-            // 
-            // txtYaziAlt3
-            // 
-            resources.ApplyResources(this.txtYaziAlt3, "txtYaziAlt3");
-            this.txtYaziAlt3.Maximum = new decimal(new int[] {
-            1000,
-            0,
-            0,
-            0});
-            this.txtYaziAlt3.Name = "txtYaziAlt3";
-            this.txtYaziAlt3.Value = new decimal(new int[] {
-            224,
-            0,
-            0,
-            0});
-            // 
-            // txtYaziUst3
-            // 
-            resources.ApplyResources(this.txtYaziUst3, "txtYaziUst3");
-            this.txtYaziUst3.Maximum = new decimal(new int[] {
-            1000,
-            0,
-            0,
-            0});
-            this.txtYaziUst3.Name = "txtYaziUst3";
-            this.txtYaziUst3.Value = new decimal(new int[] {
-            160,
-            0,
-            0,
-            0});
-            // 
-            // txtYaziAlt5
-            // 
-            resources.ApplyResources(this.txtYaziAlt5, "txtYaziAlt5");
-            this.txtYaziAlt5.Maximum = new decimal(new int[] {
-            1000,
-            0,
-            0,
-            0});
-            this.txtYaziAlt5.Name = "txtYaziAlt5";
-            this.txtYaziAlt5.Value = new decimal(new int[] {
-            381,
-            0,
-            0,
-            0});
-            // 
-            // txtYaziUst5
-            // 
-            resources.ApplyResources(this.txtYaziUst5, "txtYaziUst5");
-            this.txtYaziUst5.Maximum = new decimal(new int[] {
-            1000,
-            0,
-            0,
-            0});
-            this.txtYaziUst5.Name = "txtYaziUst5";
-            this.txtYaziUst5.Value = new decimal(new int[] {
-            317,
             0,
             0,
             0});
@@ -933,66 +998,6 @@
             this.contextMenuStrip1.Name = "contextMenuStrip1";
             resources.ApplyResources(this.contextMenuStrip1, "contextMenuStrip1");
             // 
-            // label27
-            // 
-            this.label27.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            resources.ApplyResources(this.label27, "label27");
-            this.label27.Name = "label27";
-            // 
-            // label32
-            // 
-            this.label32.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            resources.ApplyResources(this.label32, "label32");
-            this.label32.Name = "label32";
-            // 
-            // label28
-            // 
-            this.label28.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            resources.ApplyResources(this.label28, "label28");
-            this.label28.Name = "label28";
-            // 
-            // label29
-            // 
-            this.label29.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            resources.ApplyResources(this.label29, "label29");
-            this.label29.Name = "label29";
-            // 
-            // label30
-            // 
-            this.label30.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            resources.ApplyResources(this.label30, "label30");
-            this.label30.Name = "label30";
-            // 
-            // label31
-            // 
-            this.label31.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            resources.ApplyResources(this.label31, "label31");
-            this.label31.Name = "label31";
-            // 
-            // label33
-            // 
-            this.label33.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            resources.ApplyResources(this.label33, "label33");
-            this.label33.Name = "label33";
-            // 
-            // label34
-            // 
-            this.label34.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            resources.ApplyResources(this.label34, "label34");
-            this.label34.Name = "label34";
-            // 
-            // label35
-            // 
-            this.label35.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            resources.ApplyResources(this.label35, "label35");
-            this.label35.Name = "label35";
-            // 
-            // label36
-            // 
-            this.label36.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            resources.ApplyResources(this.label36, "label36");
-            this.label36.Name = "label36";
-            // 
             // groupBox1
             // 
             this.groupBox1.Controls.Add(this.label26);
@@ -1011,11 +1016,24 @@
             this.groupBox1.Name = "groupBox1";
             this.groupBox1.TabStop = false;
             // 
+            // label37
+            // 
+            this.label37.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
+            resources.ApplyResources(this.label37, "label37");
+            this.label37.Name = "label37";
+            // 
+            // txtFiyat
+            // 
+            resources.ApplyResources(this.txtFiyat, "txtFiyat");
+            this.txtFiyat.Name = "txtFiyat";
+            // 
             // CreateBarkodForm
             // 
             resources.ApplyResources(this, "$this");
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.LightSteelBlue;
+            this.Controls.Add(this.txtFiyat);
+            this.Controls.Add(this.label37);
             this.Controls.Add(this.groupBox1);
             this.Controls.Add(this.grup4);
             this.Controls.Add(this.grup3);
@@ -1070,24 +1088,24 @@
             this.grup1.ResumeLayout(false);
             ((System.ComponentModel.ISupportInitialize)(this.txtYatBosluk1)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.txtDikBosluk1)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.txtYaziAlt1)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.txtYaziUst1)).EndInit();
             this.grup2.ResumeLayout(false);
+            ((System.ComponentModel.ISupportInitialize)(this.txtYaziAlt2)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.txtYaziUst2)).EndInit();
             this.grup5.ResumeLayout(false);
+            ((System.ComponentModel.ISupportInitialize)(this.txtYaziAlt5)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.txtYaziUst5)).EndInit();
             this.grup3.ResumeLayout(false);
             ((System.ComponentModel.ISupportInitialize)(this.txtYatBosluk3)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.txtDikBosluk3)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.txtYaziAlt3)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.txtYaziUst3)).EndInit();
             this.grup4.ResumeLayout(false);
             ((System.ComponentModel.ISupportInitialize)(this.txtYatBosluk4)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.txtDikBosluk4)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.txtYaziUst1)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.txtYaziAlt1)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.txtYaziAlt2)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.txtYaziUst2)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.txtYaziAlt4)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.txtYaziUst4)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.txtYaziAlt3)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.txtYaziUst3)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.txtYaziAlt5)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.txtYaziUst5)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.txtUstYaziMesfe)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.txtAltYaziMesfe)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.txtBaslikYazi)).EndInit();
@@ -1202,6 +1220,8 @@
         private System.Windows.Forms.Label label35;
         private System.Windows.Forms.Label label36;
         private System.Windows.Forms.GroupBox groupBox1;
+        private System.Windows.Forms.Label label37;
+        private System.Windows.Forms.TextBox txtFiyat;
     }
 }
 

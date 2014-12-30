@@ -106,7 +106,7 @@ namespace EserRomeHomeBussines
             List<Firima> AllFirimaOfFrima = Firima.GetAllFrima();
             if (AllFirimaOfFrima == null || AllFirimaOfFrima.Count == 0)
             {
-                return "100";
+                return "101";
             }
 
             List<int> TmpFrimaCode = new List<int>();
@@ -118,13 +118,15 @@ namespace EserRomeHomeBussines
             TmpFrimaCode.Sort();
             if (TmpFrimaCode[0] != 1)
             {
-                return (1.ToString().PadLeft(3, '0'));
+                //return (1.ToString().PadLeft(3, '0'));
+                return (TmpFrimaCode[TmpFrimaCode.Count - 1] + 1).ToString().PadLeft(3, '0');
             }
             for (int i = 0; i < TmpFrimaCode.Count - 1; i++)
             {
                 if ((TmpFrimaCode[i] + 1) != TmpFrimaCode[i + 1])
                 {
-                    return (TmpFrimaCode[i] + 1).ToString().PadLeft(3, '0');
+                   // return (TmpFrimaCode[i] + 1).ToString().PadLeft(3, '0');
+                    return (TmpFrimaCode[TmpFrimaCode.Count - 1] + 1).ToString().PadLeft(3, '0');
                 }
             }
 
