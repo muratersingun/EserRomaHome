@@ -115,7 +115,6 @@ namespace EserRomeHomeUI
             txtOlcuAdi.Clear();
             SelectedOlcu = null;
         }
-
         private void Olculer_FormClosing(object sender, FormClosingEventArgs e)
         {
             if (SelectedOlcu != null)
@@ -137,7 +136,6 @@ namespace EserRomeHomeUI
 
         private void dataGridView1_CellDoubleClick(object sender, DataGridViewCellEventArgs e)
         {
-
             String SecilenTurKodu = dataGridView1.CurrentRow.Cells["TurKodu"].Value.ToString();
             String SecilenOlcuKodu = dataGridView1.CurrentRow.Cells["OlcuKodu"].Value.ToString();
             String SecilenOlcuAdi = dataGridView1.CurrentRow.Cells["OlcuAdi"].Value.ToString();
