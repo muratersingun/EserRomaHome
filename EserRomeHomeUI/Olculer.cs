@@ -143,13 +143,9 @@ namespace EserRomeHomeUI
             {
                 SelectedOlcu = new Olcu { TurKodu = SecilenTurKodu, OlcuKodu = SecilenOlcuKodu, OlcuAdi = SecilenOlcuAdi };
             }
-
             txtTurKodu.Text = SelectedOlcu.TurKodu.ToString();
             txtOlcuKodu.Text = SelectedOlcu.OlcuKodu.ToString();
             txtOlcuAdi.Text = SelectedOlcu.OlcuAdi.ToString();
         }
-
-
-
     }
 }
