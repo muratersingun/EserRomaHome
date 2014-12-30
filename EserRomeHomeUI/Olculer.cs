@@ -115,7 +115,6 @@ namespace EserRomeHomeUI
             txtOlcuAdi.Clear();
             SelectedOlcu = null;
         }
-
         private void Olculer_FormClosing(object sender, FormClosingEventArgs e)
         {
             if (SelectedOlcu != null)
