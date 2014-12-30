@@ -104,14 +104,10 @@ namespace EserRomeHomeUI
                 MessageBox.Show("Bir hata oluştu!!!");
             }  
         }
-
-       
-
         private void GridViewOlcu_ShowingEditor(object sender, CancelEventArgs e)
         {
             e.Cancel = true;
         }
-
         private void Clear()
         {
             txtTurKodu.Clear();
